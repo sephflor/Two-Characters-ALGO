@@ -1,1 +1,1 @@
-# Two-Characters-ALGO
+# Two-Characters-ALGO.This code finds the length of the longest string that alternates between exactly two distinct characters by checking all pairs of unique characters and verifying that no two identical characters are consecutive. The Main method reads input, calls alternate, and writes the maximum valid length to the output.
